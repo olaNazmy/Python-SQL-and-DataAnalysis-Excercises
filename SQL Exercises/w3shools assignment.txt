@@ -1,0 +1,17 @@
+1. Select the orderId with the 2nd highest quantity
+2. Select the Customer ID with the 3rd highest quantity
+
+3. Get the category name with that their number of products > 10
+
+4. Get the category name with the highest number of products
+
+
+5. Find all customers names and postal code that their name begins 
+with an a and live in Mexico
+
+6. Get employees that hold phd
+
+7. Get suppliers names who supply tofu
+
+8. Get the top 3 products by price names which their price is larger 
+than 10 and less than 30 and are measured in boxes
